@@ -1,5 +1,5 @@
 # ENS API
-Simple API for basic ENS operations.
+Simple API for basic ENS operations. Official ENS docs can be found here: https://docs.ens.domains/.
 
 ## Available endpoints
 Base URL of the server is http://localhost:1488.
